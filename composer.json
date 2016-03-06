@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Marel\\Tools\\": ""
+            "Marel\\Tools\\": "Marel/Tools"
         }
     },
 }
