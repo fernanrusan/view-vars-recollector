@@ -4,12 +4,6 @@
     "keywords": ["marel","tool"],
     "homepage": "http://github.com/fernanrusan/view-vars-recollector",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Fernando Rueda",
-            "email": "fernanrusan@gmail.com"
-        }
-    ],
     "require": {
         "php": ">=5.5.0"
     }
