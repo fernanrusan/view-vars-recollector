@@ -1,0 +1,16 @@
+{
+    "name": "fernanrusan/view_vars_recollector",
+    "description": "A tool for filter vars before send vars to views on slimframework",
+    "keywords": ["marel","tool"],
+    "homepage": "http://github.com/fernanrusan/view_vars_recollector",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fernando Rueda",
+            "email": "fernanrusan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
